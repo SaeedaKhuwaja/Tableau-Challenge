@@ -1,3 +1,7 @@
+# Before you Begin
+This data is analyzed on the following tableau link.
+https://public.tableau.com/shared/SFJQ6B767?:display_count=n&:origin=viz_share_link
+
 # Citi Bike Data Analysis
 Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike Data webpage.
 In order to analyze the data, the csv file for December 2022 was taken. This dataset contains data about the rides that took trips on different stations.
